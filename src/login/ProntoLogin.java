@@ -7,7 +7,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.Connection.Method;
 import org.jsoup.Connection.Response;
 
-public class test {
+public class ProntoLogin {
 	private static final String url = "http://phc.prontonetworks.com/cgi-bin/authlogin";
 	public static void main(String[] args) {
 		String userid,pwd;
